@@ -1,0 +1,13 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.img-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.about-image {
+    border-radius: 8px; 
+    width: 200px; 
+    height: 200px;
+}
