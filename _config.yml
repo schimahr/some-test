@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 tagline: Welcome!
 closing_note: Made with ❤️ using <a href="https://jekyllrb.com">Jekyll</a>
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://schimahr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ivansimicic.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
